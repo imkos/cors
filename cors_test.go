@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/imkos/gin"
 	"github.com/stretchr/testify/assert"
 )
 
